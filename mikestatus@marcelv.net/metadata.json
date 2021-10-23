@@ -1,0 +1,6 @@
+{
+    "uuid": "mikestatus@marcelv.net",
+    "name": "Microfoonstatus",
+    "description": "Toon status van microfoon(s)",
+    "icon": "audio-input-microphone"
+}
